@@ -6,3 +6,25 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
+
+
+
+## Emphasis
+
+- The Aim of this app is to show how data is being retrive,delete and insert into the database using Laravel
+
+
+## Requirements
+- Laravel
+- Xampp or other Server
+- Visual Studio Code or Other Editors
+
+## SCHEMA:(contactManager)
+
+    contactId: INT,
+    name: VARCHAR,
+    email: VARCHAR,
+    phone: DECIMAL,
+    image: VARCHAR
+    
+    
