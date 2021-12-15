@@ -93,12 +93,12 @@
         <div class="btn">
             <!-- Place this tag where you want the button to render. -->
             <a class="github-button"
-                href="#"
+                href="https://github.com/VishalMakwana23/Contact-manger-using-html-css-Laravel"
                 data-icon="octicon-star"
                 aria-label="Star VishalMakwana23/Contact-manger-using-html-css-Laravel on GitHub">Star</a>
             <!-- Place this tag where you want the button to render. -->
             <a class="github-button"
-                href="#"
+                href="https://github.com/VishalMakwana23/Contact-manger-using-html-css-Laravel/fork"
                 data-icon="octicon-repo-forked"
                 aria-label="Fork VishalMakwana23/Contact-manger-using-html-css-Laravel on GitHub">Fork</a>
 
