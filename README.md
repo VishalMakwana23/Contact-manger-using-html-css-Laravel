@@ -27,4 +27,10 @@
     phone: DECIMAL,
     image: VARCHAR
     
-    
+##       
+   
+   
+
+
+https://user-images.githubusercontent.com/70998696/146178627-073e9125-50e0-484c-924d-03905572fd18.mp4
+
